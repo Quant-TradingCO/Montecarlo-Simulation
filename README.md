@@ -1,7 +1,4 @@
-Quant-Trading es un portal dedicado a las finanzas cuantitativas. Estamos enfocados en el trading
-de derivados y trading algorítmico. En nuestros repositorios podrás encontrar código para desarrollar
-algunos cálculos relacionados con estos temas.
+En este repositorio encontrarás herramientas para hacer una simulación de montecarlo de diferentes procesos estocásticos usados en finanzas. Podrás encontrar algunos procesos simples como el movimiento browniano geométrico, o algunos un poco más complejos como el de salto-difusión. 
 
-Ofrecemos algunos cursos gratuitos y otros pagos. Conoce más en nuestro sitio web. 
-
+En Quant-Trading ofrecemos algunos cursos gratuitos y otros pagos. Conoce más en nuestro sitio web. 
 www.quant-trading.co
