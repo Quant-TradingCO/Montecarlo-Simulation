@@ -4,3 +4,6 @@ En este repositorio encontrarás herramientas para hacer una simulación de mont
 
 En Quant-Trading ofrecemos algunos cursos gratuitos y otros pagos. Conoce más en nuestro sitio web. 
 www.quant-trading.co
+
+<h2 style="text-align: justify;">Si crees que el contenido te fue útil te invitamos a hacer una donación.      <input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image" />
+<img src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></h2>
