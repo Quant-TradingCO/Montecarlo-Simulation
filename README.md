@@ -1,4 +1,4 @@
-En este repositorio encontrarás herramientas para hacer una simulación de montecarlo de diferentes procesos estocásticos usados en finanzas. Podrás encontrar algunos procesos simples como el movimiento browniano geométrico, o algunos un poco más complejos como el de salto-difusión. 
+In this repo you will find some tools to run montecarlo simulation. We show the main stochastic processes that are used in quantitative finace such as Geometric Brownian Motion (GBM), Jump-Difussion, etc.
 
-En Quant-Trading ofrecemos algunos cursos gratuitos y otros pagos. Conoce más en nuestro sitio web. 
+We offer some free courses and resources as well as paid ones. Visit us in: 
 www.quant-trading.co
