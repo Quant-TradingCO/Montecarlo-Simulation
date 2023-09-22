@@ -1,4 +1,4 @@
-In this repo you will find some tools to run montecarlo simulation. We show the main stochastic processes that are used in quantitative finace such as Geometric Brownian Motion (GBM), Jump-Difussion, etc.
+In this repo you will find some tools to run montecarlo simulations. We show the main stochastic processes that are used in quantitative finace such as Geometric Brownian Motion (GBM), Jump-Difussion, etc.
 
 We offer some free and paid courses as well as other resources. Please visit us in: 
 www.quant-trading.co
